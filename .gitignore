@@ -2,4 +2,3 @@ node_modules
 .firebase
 
 yarn-debug.log*
-yarn-error.log*
