@@ -1,0 +1,24 @@
+{
+  "name": "kawaii-yatsura",
+  "version": "1.0.0",
+  "description": "This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "packages/**"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksuhara/kawaii-yatsura.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksuhara/kawaii-yatsura/issues"
+  },
+  "homepage": "https://github.com/ksuhara/kawaii-yatsura#readme"
+}
